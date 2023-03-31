@@ -1,6 +1,6 @@
 Name:		texlive-soulutf8
 Version:	53163
-Release:	1
+Release:	2
 Summary:	Permit use of UTF-8 characters in soul
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/soulutf8
