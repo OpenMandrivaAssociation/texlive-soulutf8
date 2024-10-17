@@ -3,7 +3,7 @@ Version:	53163
 Release:	2
 Summary:	Permit use of UTF-8 characters in soul
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/soulutf8
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/soulutf8
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/soulutf8.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/soulutf8.doc.r%{version}.tar.xz
